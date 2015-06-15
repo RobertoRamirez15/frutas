@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+#paginainiciofrutas
+{background:#06F}
+#titulo
+{background:#93C; color:#F39}
+#pienombre
+{background:#93C; color:#F39}
+#introduccion
+{color:#0F6; size:3; text-align:justify; width:98%; background:#C09; margin:1%}
+#fondodecolor1
+{background:#93C; color:#F39}
+#fondodecolor2
+{background:#93C; color:#F39}
+#fondodecolor3
+{background:#93C; color:#F39}
+#fondodecolor4
+{background:#93C; color:#F39}
+#fondodecolor5
+{background:#93C; color:#F39}
+#fondodecolor6
+{background:#93C; color:#F39}
+#fondodecolor7
+{background:#93C; color:#F39}
+#fondodecolor8
+{background:#93C; color:#F39}
+#fondodecolor9
+{background:#93C; color:#F39}
+#fondodecolor10
+{background:#93C; color:#F39}
+#fondodecolor11
+{background:#93C; color:#F39}
+#fondodecolor12
+{background:#93C; color:#F39}
+#fondodecolor13
+{background:#93C; color:#F39}
+#color1
+{color:#0F6; size:3; text-align:justify; width:98%; background:#C09; margin:1%}
+#color2
+{color:#0F6; size:3; text-align:justify; width:98%; background:#C09; margin:1%}
+#color3
+{color:#0F6; size:3; text-align:justify; width:98%; background:#C09; margin:1%}
+#color4
+{color:#0F6; size:3; text-align:justify; width:98%; background:#C09; margin:1%}
+#color5
+{color:#0F6; size:3; text-align:justify; width:98%; background:#C09; margin:1%}
+#color6
+{color:#0F6; size:3; text-align:justify; width:98%; background:#C09; margin:1%}
+#color7
+{color:#0F6; size:3; text-align:justify; width:98%; background:#C09; margin:1%}
+#bayas
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Arandano
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Frambuesa
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Fresa
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#espinosa
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#negra
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#roja
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Zarzamora
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Limon
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Mandarina
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Naranja
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Pomelo
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Melon
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Sandia
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Aguacate
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Carambola
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Coco
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Chirimoya
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Datil
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Fruta_de_la_Pasion
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Kiwi
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Litchi
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Mango
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Papaya
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Piña
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Platano
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Albaricoque
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Cereza
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Ciruela
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Higo
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Kaki
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Manzana
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Melocoton
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Nectarina
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Nispero
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Pera
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Uva
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Almendra
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Avellana
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Cacahuate
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Castaña
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Nuez
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Pecan
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
+#Pistacho
+{color:#F3C; size:4; text-align:center; width:70%; background:#3FF; margin:2%}
